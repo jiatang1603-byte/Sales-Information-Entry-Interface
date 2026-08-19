@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Sales-Information-Entry-Interface/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
