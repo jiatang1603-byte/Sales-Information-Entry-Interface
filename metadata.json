@@ -1,0 +1,6 @@
+{
+  "name": "銷售資料輸入介面",
+  "description": "Google 試算表銷售重量快速輸入與累加更新介面",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
